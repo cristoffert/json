@@ -1,9 +1,10 @@
+  
 [
 {
-"userId" = 1,
-"rut" = 152755546,
-"nombre" = "Cristoffer Torrealba",
-"isapre" =  "demo",
-"direccion" = "Av. Zenteno 1717"
+"userId": 1,
+"rut": 152755546,
+"nombre": "Cristoffer Torrealba",
+"isapre": "demo",
+"direccion": "Av. Zenteno 1717"
 }
 ]
