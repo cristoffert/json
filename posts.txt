@@ -1,16 +1,16 @@
 [
 {
 "userId": 1,
-"rut": 15,
+"rut": 152755546,
 "nombre": "Cristoffer Torrealba",
 "isapre": "demo",
 "direccion": "Av. Zenteno 1717"
 },
 {
 "userId": 2,
-"rut": 19,
+"rut": 199001671,
 "nombre": "Abel Navarrete",
 "isapre": "Cruz Blanca",
-"direccion": "Av. Zenteno 1717"
+"direccion": "Av. Republica 2450"
 }
 ]
